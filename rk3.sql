@@ -10,7 +10,7 @@ CREATE TABLE town (
 PRIMARY KEY (`id`));
 INSERT INTO town VALUES
 ('1', 'Moskva', 'Russia', '10000000','1687'),
-(`2`, 'Kiev', 'Ukraina', '67000000','1579'),
+('2', 'Kiev', 'Ukraina', '67000000','1579'),
 ('3', 'Saint-Peterburg', 'Russia', '5000000','1785'),
 ('4', 'Helsinki', 'Finlandia', '5700000','1887'),
 ('5', 'Madrid', 'Ispania', '4720000','1849'),
