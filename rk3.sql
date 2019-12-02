@@ -7,7 +7,7 @@ CREATE TABLE town (
 `country` VARCHAR(30) NOT NULL,
 `population` INT(40) NOT NULL,
 `year` INT(10) NOT NULL,
-PRIVARY KEY (`id`);)
+PRIMARY KEY (`id`));
 INSERTN INTO town VALUES
 ('1', 'Moskva', 'Russia', '10000000','1687'),
 (`2`, 'Kiev', 'Ukraina', '67000000','1579'),
